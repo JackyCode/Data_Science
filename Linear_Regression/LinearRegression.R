@@ -19,7 +19,7 @@ LinReg <- function (x, y) {
 	}
 	
 	coefficients <- x
-	intercept <- rep(1, max(dim(x)))
+	intercept <- rep(1, dim(x)[1])
 	
 	# transfer all the datas to matrix
 	xMat <- as.matrix(cbind(intercept, coefficients))
@@ -35,8 +35,8 @@ LinReg <- function (x, y) {
 	beta <- solve(xTx) %*% t(xMat) %*% yMat
 	
 	# F-test
-	n <- max(dim(x))
-	p <- min(dim(x))
+	n <- dim(x)[1]
+	p <- dim(x)[2]
 	ypred <- xMat %*% beta
 	SSR <- sum((ypred-mean(yMat))**2)
 	SSE <- sum((yMat-ypred)**2)
