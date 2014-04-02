@@ -10,7 +10,7 @@
 
 ***
 
-有关线性回归的内容可以到我的主页上去看，大致有两本篇：
+有关线性回归的内容可以到我的主页上去看，大致有三篇：
 
 * [数据科学之机器学习2：线性回归1](http://jackycode.github.io/blog/2014/03/30/machine-learning1/)
 * [数据科学之机器学习3：线性回归2](http://jackycode.github.io/blog/2014/04/01/linear-regression2/)
