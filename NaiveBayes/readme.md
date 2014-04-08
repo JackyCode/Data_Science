@@ -5,7 +5,7 @@
 
 ***
 
-有关kNN算法，可以参见我的博客：[数据科学之机器学习6: 分类之朴素贝叶斯](http://jackycode.github.io/blog/2014/04/08/naive-bayes/)
+有关Naive Bayes，可以参见我的博客：[数据科学之机器学习6: 分类之朴素贝叶斯](http://jackycode.github.io/blog/2014/04/08/naive-bayes/)
 
 ***
 
