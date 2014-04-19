@@ -6,7 +6,7 @@
 
 ***
 
-有关KMeans算法，可以参见我的博客：[数据科学之机器学习8: 聚类算法之KMeans]()
+有关KMeans算法，可以参见我的博客：[数据科学之机器学习9: 聚类算法之KMeans](http://jackycode.github.io/blog/2014/04/19/kmeans/)
 
 ***
 
